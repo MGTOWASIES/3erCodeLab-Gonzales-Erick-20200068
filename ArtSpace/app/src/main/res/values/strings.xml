@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="monalisa">Monalisa</string>
+    <string name="monalisa_year">1503</string>
+    <string name="monalisa_autor">Leonardo Da Vinci</string>
+    <string name="lanocheestrellada">La Noche Estrellada</string>
+    <string name="lanocheestrellada_year">1889</string>
+    <string name="lanocheestrellada_autor">Van Gogh</string>
+    <string name="laultimacena">La Ultima Cena</string>
+    <string name="laultimacena_year">1495</string>
+    <string name="laultimacena_autor">Leonardo Da Vinci</string>
+    <string name="elbeso">El Beso</string>
+    <string name="elbeso_year">1909</string>
+    <string name="elbeso_autor">Gustav Klimt</string>
+    <string name="elgrito">El Grito</string>
+    <string name="elgrito_year">1893</string>
+    <string name="elgrito_autor">Edvard Munch</string>
+    <string name="guernica">Guernica</string>
+    <string name="guernica_year">1937</string>
+    <string name="guernica_autor">Pablo Picasso</string>
+</resources>
